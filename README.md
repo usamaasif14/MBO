@@ -1,0 +1,2 @@
+# MBO
+School Managment system
